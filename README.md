@@ -5,7 +5,7 @@ This project is dedicated to analyzing the annual Stack Overflow Developer Surve
 <details>
   <summary><b>Task 4: Remote Work Trends</b></summary>
 
-**Goal:** Analyze how many developers are working remotely.
+**Goal:** Analyze how many developers are working remotely.  
 **Key Finding:** **10,931 respondents** (which is **22.22%** of the total) work fully remotely.
 </details>
 
@@ -21,7 +21,7 @@ This project is dedicated to analyzing the annual Stack Overflow Developer Surve
 <details>
   <summary><b>Task 6: Online Education</b></summary>
 
-**Goal:** See how many people learned to code using online courses.
+**Goal:** See how many people learned to code using online courses.  
 **Key Finding:** **10,973 developers** (**22.31%**) chose online courses as a key part of their education.
 </details>
 
@@ -37,7 +37,7 @@ This project is dedicated to analyzing the annual Stack Overflow Developer Surve
 <details>
   <summary><b>Task 8: Experience vs. Salary</b></summary>
 
-**Goal:** Look at how professional experience affects high salaries.
+**Goal:** Look at how professional experience affects high salaries.  
 **Key Finding:** The analysis shows that more years of experience significantly increase the chances of getting a high salary. In some cases, compensation reaches **$1M+** for highly experienced specialists.
 </details>
 
