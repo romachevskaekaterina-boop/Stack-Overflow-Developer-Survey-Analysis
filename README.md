@@ -31,7 +31,7 @@ This project is dedicated to analyzing the annual Stack Overflow Developer Surve
 **Goal:** Analyze average and median salaries for Python developers across different countries.  
 **Key Findings:**
 * Conducted a detailed grouping by country to identify geographic compensation trends.
-* For example, in **Slovenia**, the average compensation for Python-related roles is approximately **$84,658 in a year**.
+* For example, in **Slovenia**, the average compensation for Python-related roles is approximately **$84,658** in a year.
 </details>
 
 <details>
